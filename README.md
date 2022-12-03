@@ -1,6 +1,3 @@
-# naver_crawlling
-Naver Realestate API Crawlling
-
 # 네이버 부동산 크롤링 코드입니다.
 
 
